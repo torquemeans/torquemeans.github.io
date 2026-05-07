@@ -8,3 +8,8 @@
   color: aliceblue;
   border-radius: 10px;
 }
+.tab-hold {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
