@@ -20,3 +20,10 @@
   justify-content: center;
   gap: 200px;
 }
+.page {
+  margin: 0 auto;
+}
+.order {
+  display: flex;
+  flex-direction: column;
+}
