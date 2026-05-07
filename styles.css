@@ -8,6 +8,10 @@
   color: aliceblue;
   border-radius: 10px;
 }
+.tab-head h1 {
+  display: flex;
+  justify-content: center;
+}
 .tab-hold {
   display: flex;
   justify-content: center;
