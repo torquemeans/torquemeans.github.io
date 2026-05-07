@@ -8,6 +8,9 @@
   color: aliceblue;
   border-radius: 10px;
 }
+.tab h2 a {
+  color: aliceblue;
+}
 .tab-head h1 {
   display: flex;
   justify-content: center;
